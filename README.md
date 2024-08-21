@@ -54,6 +54,38 @@ In this case study I have been tasked with the question:
 
 First and foremost, I made sure that I understood the question as it should and then began preparing the data.
 I downloaded the last 12 months available and took a look around the data. First thought in mind was to gather the total rides for those months and group it to months.
-After a first analysis it has been clear that most sales ( uses ) of bicycles have been in the warmer months of the year and the least in the colder months.
+After a first analysis it has been clear that most sales ( uses ) of bicycles have been in the warmer months of the year and the 
+least in the colder months.
 
-![image] 
+## Seasonal impact & Usage Frequency Analysis
+
+![casualvsmembers](https://github.com/user-attachments/assets/b065b968-89fa-4cdf-8f1f-497a3e245eca)
+![Ddt](https://github.com/user-attachments/assets/e1b71c8b-d17a-44fd-bfc6-5ddb31d2f8a4)
+
+*From the analysis we could also see that the predominant amount of users are the annual members.*
+
+From there I started to look into the trip duration of each category, members and casuals. That analysis gave me insight that members keep a steady amount of time riding ( due to them cycling to work/gym/personal needs, thus being more convenient for them to buy an annual subscription ).
+
+## Trip duration comparison
+![hlmembers](https://github.com/user-attachments/assets/357a369a-2c32-40ac-988f-f43dcaf11e78)
+
+And casuals tend to have a higher rate of cycling time ( casual riders are tourists or first timers, they spend more time exploring, sightseeing and visiting different touristical attractions ).
+
+![hlcasual](https://github.com/user-attachments/assets/cdf640d4-b4e4-44db-a5fb-efbde4dcf280)
+
+
+I solely focused on the three most important insights with the given data even though more could've been explored like locations and type of bikes.
+
+With that I delved even deeper into the time spent riding and came to the confirmation and conclusion that members keep riding for the 10-15 minutes overall, while casuals ride less in the weekdays and double in weekends, that could be because they are off work and have free time to relax, visit and try out new stuff, like cycling.
+
+In the presentation I showed 4/12 months, here I will be attaching two more that confirm the theory.
+![Aug2023](https://github.com/user-attachments/assets/5afcd6c2-da99-4cb0-82d1-8682509a804c)
+![Mar2024](https://github.com/user-attachments/assets/64a2029f-38bc-47ba-a25b-e29fdd06c925)
+
+### In Conclusion
+
+|Member|Casual|
+|------|------|
+|Are the vast majority of users, dropping with colder months, yet still remaining in high numbers.|Represent the small minority of users, dropping with colder months.|
+|Spend less time riding overall because of known routes and their usage for work and day to day activities.|Spend more time riding, with an increase in weekends for recreational activities.|
+|They mostly use it for the same amount of time, no matter the day.|They use it less on weekdays and more on weekends.|
