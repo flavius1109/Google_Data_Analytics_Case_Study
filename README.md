@@ -89,3 +89,37 @@ In the presentation I showed 4/12 months, here I will be attaching two more that
 |Are the vast majority of users, dropping with colder months, yet still remaining in high numbers.|Represent the small minority of users, dropping with colder months.|
 |Spend less time riding overall because of known routes and their usage for work and day to day activities.|Spend more time riding, with an increase in weekends for recreational activities.|
 |They mostly use it for the same amount of time, no matter the day.|They use it less on weekdays and more on weekends.|
+
+### Some possible recommendations, other than those mentioned in the presentation could be:
+
+#### I. Marketing and Promotions by user type and season
+
+Autumn/Winter: Since bike usage decreases due to colder weather, consider offering promotions or discounts on bike rentals or services during these months to encourage usage. You might also offer incentives for using bikes in winter, such as winter gear or discounts on longer-term rentals.
+
+Spring/Summer: During warmer months, when bike usage increases, boost marketing efforts to capitalize on the high demand. Offer summer-specific promotions or packages that appeal to families and casual riders, such as family passes or extended rental options.
+
+#### II. Optimize Ride Duration and Usage Patterns
+
+1. Members:
+
+Daily Use: Ensure bikes are readily available and offer perks for regular usage to maintain consistent ride patterns.
+Track and Adapt: Use data to adjust bike availability and services based on typical ride durations and peak usage times.
+
+2. Casual Riders:
+
+Weekends: Offer incentives for longer rentals or multi-hour packages to encourage extended rides and exploration.
+Weekdays: Promote short, efficient rides for quick leisure trips or errands.
+
+#### III. Enhance Seasonal Bike Availability and Infrastructure
+
+1. Seasonal Availability:
+
+Winter: Ensure bikes are equipped with winter-friendly features (e.g., snow tires) and increase maintenance services.
+Summer: Boost bike inventory and rental locations to handle high demand, especially in tourist areas and parks.
+
+2. Infrastructure Improvements:
+
+Cold Weather: Maintain clear, safe bike paths and provide sheltered bike storage to encourage usage.
+Warm Weather: Enhance bike path signage and add amenities like bike repair stations and water stations along popular routes.
+
+Thanks for taking the time to look onto my little start as a data analyst, hope you have a great day! :)
